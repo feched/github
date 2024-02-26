@@ -2,7 +2,7 @@
 int x;
 Console.WriteLine("Введите число х");
 x = Convert.ToInt32(Console.ReadLine());
-// решение задачи
+// решение задачии
 Console.WriteLine($"y={(5 * x) + 20}");
 
 //возведение в степень
